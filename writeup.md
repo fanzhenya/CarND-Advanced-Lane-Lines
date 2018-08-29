@@ -22,7 +22,7 @@ The goals / steps of this project are the following:
 [image2]: ./output_images/writeup_camera_calibration.png "Road Transformed"
 [image3]: ./output_images/writeup_binary_combo.png "Binary Example"
 [image4]: ./output_images/writeup_warp.png "Warp Example"
-[image5]: ./output_images/writeup_fit_lines.jpg "Fit Visual"
+[image5]: ./output_images/writeup_fit_lines.png "Fit Visual"
 [image6]: ./output_images/writeup_show_lane.png "Output"
 [video1]: ./submission.mp4 "Video"
 
